@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un sistema de validación de edad en 
 
 El sistema está diseñado para manejar correctamente la entrada de datos, evitando errores comunes como el ingreso de valores no válidos o edades negativas. Esto permite que el programa funcione de manera segura y comprensible para cualquier usuario.
 
-Además, este sistema aplica una lógica condicional sencilla y bien estructurada para evaluar la edad ingresada, permitiendo tomar decisiones de forma correcta según el resultado obtenido. A través de este proyecto, se refuerza el uso de estructuras básicas de control en Python y se fomenta la creación de programas claros, funcionales y orientados a la correcta interacción con el usuario desde la consola.
+Además, este sistema aplica una lógica condicional sencilla y bien estructurada para evaluar la edad ingresada, permitiendo tomar decisiones de forma correcta según el resultado obtenido. 
 
 #
 ### 🧑‍💻 Lenguaje de programacion
