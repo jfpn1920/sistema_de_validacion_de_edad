@@ -33,3 +33,14 @@ Además, este sistema aplica una lógica condicional sencilla y bien estructurad
 2. El programa valida que el dato sea correcto.
 3. Se evalúa si la edad corresponde a una persona mayor o menor de edad.
 4. Se muestra un mensaje personalizado con el resultado.
+
+#
+### ▶️ Cómo usar el proyecto
+Tienes dos opciones para obtener el código:
+1. **Descargar directamente:**
+   Haz clic en el botón verde code y selecciona download zip.
+
+2. **Clonar con git:**
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   ```
